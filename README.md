@@ -1,4 +1,4 @@
-# TSDI
+# Tiered Subaperture Directivity Indexing (TSDI)
 ### A Novel Technique for Estimation and Detection of Specular Reflections Leveraging High Frame Rate Ultrasound Imaging
 
 #### **Academic Reference to be Cited:**
